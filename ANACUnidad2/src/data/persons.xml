@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<persons>
+
+	<person>
+		<id>ptr002</id>
+		<name>mm</name>
+		<report>nn</report>
+		<relation>hh</relation>
+	</person>
+	<person>
+		<id>ptr003</id>
+		<name>mm</name>
+		<report>mm</report>
+		<relation>mm</relation>
+	</person>
+
+	<person>
+		<id>ptr004</id>
+		<name>ll</name>
+		<report>pp</report>
+		<relation>uu</relation>
+	</person>
+	<person>
+		<id>ptr005</id>
+		<name>mm</name>
+		<report>bb</report>
+		<relation>ll</relation>
+	</person>
+
+
+	<person>
+		<id>ptr006</id>
+		<name>cc</name>
+		<report>dd</report>
+		<relation>rr</relation>
+	</person>
+
+	<person>
+		<id>ptr007</id>
+		<name>1</name>
+		<report>3</report>
+		<relation>4</relation>
+	</person>
+
+	<person>
+		<id>ptr001</id>
+		<name>m</name>
+		<report>k</report>
+		<relation>b</relation>
+	</person>
+	<person>
+		<id>ptr008</id>
+		<name>m</name>
+		<report>l</report>
+		<relation>pp</relation>
+	</person>
+</persons>
